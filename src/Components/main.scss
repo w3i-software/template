@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f8f8f8;
+    font-family: 'dejavu sans', sans-serif;
+}
+
+nav {
+    background: linear-gradient(to left, #f84869, #ff5c79);    
+    position: sticky;
+    margin: 0;
+}
+
+.header {
+    color: #ff5271;
+}
+
+@media only screen and (min-width: 320px) {
+    nav {
+        height: 65 / 3.2 + vw;
+        width: 100vw;        
+    }
+    h2 {
+        font-size: 20 / 3.2 + vw;
+        font-weight: 400;
+        margin: 20/3.2 + vw auto;
+        text-align: center;
+    }
+
+    .chart {
+        width: 230/3.2 + vw;
+        height: 230/3.2 + vw;
+        margin: 15/3.2 + vw 45/3.2 + vw;
+    }
+
+    .description {
+        font-size: 18/3.2 + vw;
+        font-weight: 200;
+        margin: 15/3.2 + vw 45/3.2 + vw;
+        position: absolute;
+        bottom: 60/3.2 + vw;
+    }
+
+    .menu img{
+        margin: 17/3.2 + vw;
+    }
+
+    .mulher {
+        width: 265/3.2 + vw;
+        height: 172/3.2 + vw;
+        margin: 0 25/3.2 + vw;
+    }
+}
