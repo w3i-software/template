@@ -21,26 +21,25 @@
      id="defs4643">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2117"
-       id="linearGradient2422"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.91390969,0,0,-0.91390969,35.904663,27.635194)"
-       x1="66.252876"
-       y1="-69.599426"
-       x2="100.2591"
-       y2="-103.19833" />
+       id="linearGradient2827">
+      <stop
+         style="stop-color:#cbdcfc;stop-opacity:1;"
+         offset="0"
+         id="stop2823" />
+      <stop
+         style="stop-color:#e5eefe;stop-opacity:1"
+         offset="1"
+         id="stop2825" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient2117">
-      <stop
-         style="stop-color:#4ccfd8;stop-opacity:1;"
-         offset="0"
-         id="stop2113" />
-      <stop
-         style="stop-color:#27cfbe;stop-opacity:1"
-         offset="1"
-         id="stop2115" />
-    </linearGradient>
+       xlink:href="#linearGradient2827"
+       id="linearGradient2829"
+       x1="96.738236"
+       y1="106.90648"
+       x2="129.16742"
+       y2="106.90648"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,14 +48,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-386.09397"
-     inkscape:cy="14.0734"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-86.66926"
+     inkscape:cy="117.32645"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="698"
+     inkscape:window-height="686"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -68,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,13 +77,13 @@
      id="layer1"
      transform="translate(-67.380221,-90.681173)">
     <circle
-       style="opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#939dac;stroke-width:7.25415707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:7.25415707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="path2250"
        cx="96.738098"
        cy="123.19904"
        r="25.730799" />
     <path
-       style="opacity:1;fill:url(#linearGradient2422);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.58434677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;fill:url(#linearGradient2829);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.58434677;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 98.123222,90.681173 a 1.3853143,1.3853143 0 0 0 -1.384721,1.37622 l -2.65e-4,10e-4 v 29.691497 a 1.3853142,1.3853142 0 0 0 1.385203,1.38189 1.3853142,1.3853142 0 0 0 0.0231,-0.001 v -2.6e-4 h 29.596571 a 1.3853142,1.3853142 0 0 0 0.0392,10e-4 1.3853142,1.3853142 0 0 0 0.0278,-10e-4 1.3853142,1.3853142 0 0 0 1.35731,-1.38377 1.3853142,1.3853142 0 0 0 -2.6e-4,-0.009 l 2.6e-4,-2.7e-4 a 32.5002,32.5002 0 0 0 -0.001,-0.009 1.3853142,1.3853142 0 0 0 -10e-4,-0.0259 l -0.001,0.001 A 32.5002,32.5002 0 0 0 98.17572,90.681273 l -0.003,0.002 a 1.3853143,1.3853143 0 0 0 -0.05,-0.002 z"
        id="path2427"
        inkscape:connector-curvature="0" />
