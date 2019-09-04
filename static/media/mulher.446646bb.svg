@@ -17,6 +17,11 @@
    id="svg3880"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="mulher.svg">
+   <style>
+      #rect2195 {
+         height: 20px;
+      }
+   </style>
   <defs
      id="defs3874">
     <linearGradient
@@ -206,9 +211,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="194.59815"
-     inkscape:cy="63.969508"
+     inkscape:zoom="126.71353"
+     inkscape:cx="200.23521"
+     inkscape:cy="42.250226"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -216,7 +221,10 @@
      inkscape:window-height="686"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true" />
   <metadata
      id="metadata3877">
     <rdf:RDF>
@@ -256,7 +264,8 @@
        x="103.58677"
        y="79.464241"
        rx="1.193598"
-       ry="1.193598" />
+       ry="1.193598"
+       inkscape:transform-center-y="-9.6342312" />
     <rect
        style="opacity:0.3;fill:url(#linearGradient2135);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.66994768;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect2127"

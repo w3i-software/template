@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/template/static/css/main.a07bfd49.chunk.css",
-    "main.js": "/template/static/js/main.8e56f439.chunk.js",
-    "main.js.map": "/template/static/js/main.8e56f439.chunk.js.map",
+    "main.css": "/template/static/css/main.7da04679.chunk.css",
+    "main.js": "/template/static/js/main.5bd2a0b3.chunk.js",
+    "main.js.map": "/template/static/js/main.5bd2a0b3.chunk.js.map",
     "runtime~main.js": "/template/static/js/runtime~main.0a286741.js",
     "runtime~main.js.map": "/template/static/js/runtime~main.0a286741.js.map",
-    "static/js/2.9c574eec.chunk.js": "/template/static/js/2.9c574eec.chunk.js",
-    "static/js/2.9c574eec.chunk.js.map": "/template/static/js/2.9c574eec.chunk.js.map",
+    "static/js/2.75ec0d56.chunk.js": "/template/static/js/2.75ec0d56.chunk.js",
+    "static/js/2.75ec0d56.chunk.js.map": "/template/static/js/2.75ec0d56.chunk.js.map",
     "index.html": "/template/index.html",
-    "precache-manifest.9134279043766009a6ed6dd571ed8729.js": "/template/precache-manifest.9134279043766009a6ed6dd571ed8729.js",
+    "precache-manifest.aecdbc810c300dc0d892dacbbe9bb72a.js": "/template/precache-manifest.aecdbc810c300dc0d892dacbbe9bb72a.js",
     "service-worker.js": "/template/service-worker.js",
-    "static/css/main.a07bfd49.chunk.css.map": "/template/static/css/main.a07bfd49.chunk.css.map",
+    "static/css/main.7da04679.chunk.css.map": "/template/static/css/main.7da04679.chunk.css.map",
     "static/media/chart.svg": "/template/static/media/chart.e6d27c2a.svg",
     "static/media/homem.svg": "/template/static/media/homem.3a85f718.svg",
-    "static/media/menu.svg": "/template/static/media/menu.845f1b4f.svg",
-    "static/media/mulher.svg": "/template/static/media/mulher.6bb52fbb.svg",
+    "static/media/main.scss": "/template/static/media/loader.cfc11ba4.svg",
+    "static/media/menu.svg": "/template/static/media/menu.f5d8022c.svg",
+    "static/media/mulher.svg": "/template/static/media/mulher.446646bb.svg",
     "static/media/triangle.svg": "/template/static/media/triangle.05a753ba.svg"
   }
 }

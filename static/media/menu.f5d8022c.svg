@@ -8,14 +8,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="7.8092723mm"
-   height="7.348177mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"   
    viewBox="0 0 7.8092723 7.348177"
    version="1.1"
    id="svg3141"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="menu.svg">
+   sodipodi:docname="menu.svg">  
+
   <defs
      id="defs3135" />
   <sodipodi:namedview
@@ -55,17 +54,17 @@
      transform="translate(-52.791789,-83.171152)">
     <path
        style="fill:none;stroke:#0e1d39;stroke-width:1.1133455;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 53.35639,83.72788 h 6.68007"
+       d="m 53.506847,83.869799 h 6.379156"
        id="path2752"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path2762"
-       d="m 53.35639,86.84524 h 6.68007"
+       d="m 53.506847,86.84524 h 6.379156"
        style="fill:none;stroke:#0e1d39;stroke-width:1.1133455;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#0e1d39;stroke-width:1.1133455;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 53.35639,89.9626 h 6.68007"
+       d="m 53.506847,89.82068 h 6.379156"
        id="path2766"
        inkscape:connector-curvature="0" />
   </g>
