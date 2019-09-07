@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="260"
+   viewBox="0 0 84.666666 68.791673"
+   version="1.1"
+   id="svg4649"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="chart.svg">
+  <defs
+     id="defs4643">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient839">
+      <stop
+         style="stop-color:#c3defb;stop-opacity:1;"
+         offset="0"
+         id="stop835" />
+      <stop
+         style="stop-color:#deecfb;stop-opacity:1"
+         offset="1"
+         id="stop837" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient839"
+       id="linearGradient841"
+       x1="97.634499"
+       y1="107.23219"
+       x2="129.22191"
+       y2="107.23219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99539631,0,0,0.99539631,0.31739901,0.69880342)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="193.72255"
+     inkscape:cy="105.5132"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="944"
+     inkscape:window-height="674"
+     inkscape:window-x="0"
+     inkscape:window-y="5"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="false"
+     units="px" />
+  <metadata
+     id="metadata4646">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     transform="translate(5.1663858,7.6809777)" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.213836,-83.000195)">
+    <g
+       id="g1473"
+       transform="matrix(1.0720335,0,0,1.0503247,0.62119584,-10.473707)">
+      <ellipse
+         ry="24.94755"
+         rx="24.947491"
+         cy="123.23394"
+         cx="97.502281"
+         id="path2250"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:7.2207613;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2427"
+         d="m 98.845242,91.705921 a 1.3431418,1.343145 0 0 0 -1.342567,1.334326 l -2.55e-4,9.7e-4 V 121.8289 a 1.3431417,1.3431449 0 0 0 1.343032,1.33983 1.3431417,1.3431449 0 0 0 0.0224,-9.7e-4 v -2.5e-4 h 28.695578 a 1.3431417,1.3431449 0 0 0 0.038,9.6e-4 1.3431417,1.3431449 0 0 0 0.027,-9.6e-4 1.3431417,1.3431449 0 0 0 1.31598,-1.34165 1.3431417,1.3431449 0 0 0 -2.5e-4,-0.009 l 2.5e-4,-2.5e-4 a 31.510811,31.510887 0 0 0 -9.6e-4,-0.009 1.3431417,1.3431449 0 0 0 -9.8e-4,-0.0251 l -9.7e-4,9.8e-4 A 31.510811,31.510887 0 0 0 98.896143,91.706017 l -0.0029,0.0019 a 1.3431418,1.343145 0 0 0 -0.04848,-0.0019 z"
+         style="opacity:1;fill:url(#linearGradient841);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.50799751;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.21194744px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13029903"
+       x="66.475349"
+       y="112.21551"
+       id="text845"
+       transform="scale(1.0102815,0.98982314)"><tspan
+         sodipodi:role="line"
+         id="tspan1461"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93888903px;line-height:3.70416689px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.13029903"
+         x="66.475349"
+         y="112.21551">Alavancamos suas vendas </tspan><tspan
+         sodipodi:role="line"
+         id="tspan1463"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93888903px;line-height:3.70416689px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.13029903"
+         x="66.475349"
+         y="118.73044">aumentando o número de </tspan><tspan
+         sodipodi:role="line"
+         id="tspan1465"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93888903px;line-height:3.70416689px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.13029903"
+         x="66.475349"
+         y="125.24538">clientes através de marketing </tspan><tspan
+         sodipodi:role="line"
+         id="tspan1467"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:4.93888903px;line-height:3.70416689px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.13029903"
+         x="66.475349"
+         y="131.76031">em redes sociais</tspan></text>
+  </g>
+</svg>
